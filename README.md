@@ -1,2 +1,2 @@
-# [AlienHistory] (https://darktet.github.io/AlienHistory/)
+# [AnimeHistory] (https://darktet.github.io/AnimeHistory/)
 personal but not personal History
